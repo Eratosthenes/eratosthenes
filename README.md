@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Nathan Rapport. I build tools, libraries, and systems, with an eye toward speed and simplicity. 
+
+My programming interests span algorithms, compilers, language design, information retrieval, distributed systems, cryptography/cryptocurrency, formal methods (TLA+), and AI — particularly where neural models intersect with ranking, retrieval, and system design.
+
 <!--
 **Eratosthenes/eratosthenes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
